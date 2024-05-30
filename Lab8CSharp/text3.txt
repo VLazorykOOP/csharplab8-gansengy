@@ -1,0 +1,5 @@
+This is a sample text. This text is just a sample.
+Each word in this text should appear more than once.
+However, unique words like "unique" or "exclusive" should be removed.
+Let's also consider words with punctuation marks like "sample," and "sample."
+Words like "text," "text!" and "text." should be treated as the same.
